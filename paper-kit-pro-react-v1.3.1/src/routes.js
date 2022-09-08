@@ -40,6 +40,9 @@ import ValidationForms from "views/forms/ValidationForms.js";
 import VectorMap from "views/maps/VectorMap.js";
 import Widgets from "views/Widgets.js";
 import Wizard from "views/forms/Wizard.js";
+//Gaspar
+import roles from "views/Roles";
+import addRoles from "views/addRoles";
 
 const routes = [
   {
@@ -263,7 +266,24 @@ const routes = [
     icon: "nc-icon nc-calendar-60",
     component: Calendar,
     layout: "/admin"
-  }
+  },
+  {
+    path: "/roles",
+    name: "Roles",
+    icon: "nc-icon nc-bank",
+    component: roles,
+    layout: "/admin"
+   // invisible: true
+  },
+  {
+    path: "/addRole",
+    name: "addRoles",
+    icon: "nc-icon nc-bank",
+    component: addRoles,
+    layout: "/admin",
+    invisible: true
+
+  },
 ];
 
 export default routes;
