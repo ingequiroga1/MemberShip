@@ -1,0 +1,38 @@
+    ======  ======
+    Time:10/09/2022 21:01:31
+    Title: Initiate log
+    Message: 
+    Time:10/09/2022 21:01:31
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:10/09/2022 21:01:31
+    Title: Requesting EVT
+    Message: EVTP
+    Time:10/09/2022 21:01:31
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:10/09/2022 21:01:31
+    Title: LICENSER
+    Message: FNF
+    Time:10/09/2022 21:01:32
+    Title: No se pudo encontrar el archivo 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Telerik.Licensing.Licenser.ReadHashPass()
+    Time:10/09/2022 21:01:32
+    Title: No se pudo encontrar el archivo 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Telerik.Licensing.Licenser.ReadHashPass()
+    Entering constructor for: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering DevExpress.ExpressApp.Design.Core.EditorFactory constructor
+    Entering constructor for: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering DevExpress.ExpressApp.Design.Core.EditorFactory constructor
+    Entering constructor for: DevExpress.ExpressApp.Design.DynamicPackage.VSPkg
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.EditorFactory
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering Dispose() of: DevExpress.ExpressApp.Design.Core.EditorFactory
+    Entering Dispose() of: DevExpress.ExpressApp.Design.DynamicPackage.VSPkg

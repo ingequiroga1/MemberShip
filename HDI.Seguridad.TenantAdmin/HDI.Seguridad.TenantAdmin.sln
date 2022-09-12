@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDI.Seguridad.TenantAdmin", "HDI.Seguridad.TenantAdmin\HDI.Seguridad.TenantAdmin.csproj", "{8A5EB10E-F3D2-44E7-AA4C-8ED1F0AE2360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5EB10E-F3D2-44E7-AA4C-8ED1F0AE2360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5EB10E-F3D2-44E7-AA4C-8ED1F0AE2360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5EB10E-F3D2-44E7-AA4C-8ED1F0AE2360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5EB10E-F3D2-44E7-AA4C-8ED1F0AE2360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A614D09E-BAA5-4971-9DE4-4D48564A41DB}
+	EndGlobalSection
+EndGlobal
